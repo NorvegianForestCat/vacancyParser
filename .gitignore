@@ -8,5 +8,7 @@ venv/
 data/
 
 .env/
+logs/
+.logs/
 
 .vscode/
